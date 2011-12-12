@@ -1,0 +1,152 @@
+---
+author: joshrule
+date: '2010-11-18 16:52:25'
+layout: post
+slug: trial1day15
+status: publish
+title: Trial1:Day15
+wordpress_id: '49'
+categories:
+- trials
+---
+
+![from DavidR_ on flickr.com][1]
+
+Today is the fifteenth day of my 30-day trial to spend an hour each day
+reading work specifically tied to my scientific interests. I’ll run through a
+few of my observations from this week and then dive into a more detailed
+discussion on the fundamental role of connection for internalizing new ideas.
+
+#### This Week: Some Observations
+
+I haven’t missed any readings this week (but I did have a close call, see
+below). In fact, I’ve finished just over 30% of the textbook I’m reading, and
+I also read about a paper-and-a-half last weekend. So again, judging by the
+trial’s definition - read academically for an hour each day - I’m cruising
+along at full-speed.
+
+But, the actual amount of reading I completed this week was noticeably lower
+than for the first week. During week one, I read about 20% of the textbook,
+and this week, I only managed 13%. I also read several papers during the first
+week but didn’t even finish 2 this week. What gives?
+
+First, I nearly forgot my reading on Saturday, so I didn’t start into a paper
+until well after 22:00. I was actually just reviewing a 5-page paper I’d
+already read, but it took me the full hour to finish it. I was so tired I
+could barely keep even a sentence in my head, and I kept reading the same
+paragraph again and again. It was pathetic. Use the morning to do your most
+important tasks, and leave less demanding work for later in the day.
+
+Second, I waded through a few textbook chapters on molecular signaling in the
+brain this week. Unlike the material I’d read previously, these chapters were
+loaded with new concepts. I like what I read to be concept-dense, but there
+are two ways to do that. One is to have lots of concepts covered in scant
+detail. That’s what these chapters did, mentioning dozens of new proteins and
+neurotransmitters on each page, but never describing any in detail. The other
+way to be concept-dense is to pick out a single idea and tease as much out of
+it as you can before moving to the next concept. So far, all but a couple of
+chapters in the book have been written this way.
+
+This second method seems more useful to me, in large part because it often
+does a better job of communicating thematically. Overarching themes make it
+easier to build connections from paragraph to paragraph. And, building strong
+connections between ideas is perhaps the most important thing we can do when
+learning new material.
+
+#### Learning as Connection
+
+As scientists, we are constantly soaking in information. Even if we are
+careful to pick out only the most relevant research from others, we are still
+usually knee-deep in new papers and data from our most recent experiments. To
+expand the bounds of knowledge, we can never stop learning.
+
+So, understanding how to quickly internalize new material is a critically
+important skill. Learning quickly is especially important for people like me
+who are brand-new to their field. We have to build an adequate background as
+quickly as possible so that we can stop worrying about vocabulary and start
+working on important problems.
+
+My big takeaway this week is that **connection is key for learning new
+concepts**.
+
+By connection, I mean that none of the ideas in our head are completely
+isolated. They are tied to other ideas and experiences in an incredibly
+complicated web. Some of my most profound spiritual experiences smell like
+pine trees, because they took place in a forest in Michigan. The experience
+had little to do with pine trees, but the experience and the smell are now
+strongly connected in my head. And I’m constantly making bad jokes because
+every time someone says something, the words and phrases they use connect to a
+hundred different nodes in my web. Often, I think the connections are funny
+(and occasionally, I’m right).
+
+If we are learning new and alien concepts, we need to tie them into our web by
+building as many connections as possible. The faster we do that, the faster we
+learn. The better we are at building connections, the better we are at
+learning.
+
+I mentioned that I would also be talking about repetition today as another key
+for learning new concepts. But, I realized a few days ago that repetition is
+just a brute-force method of forming connections. We present ourselves with a
+new concept, and hope that we subconsciously pull a small kernel into our web,
+knowing that most of what we learn gets thrown out with our short-term memory.
+The next time we see the concept, we hope our brains will connect new
+information to the kernel we’ve already learned and internalize a bit more.
+After several repetitions, we tend to learn concepts pretty well. It’s not
+optimal, but repetition doesn’t require much effort, so we use it by
+default[^1].
+
+#### Building Connections
+
+There are several ways we can reduce the number of repetitions needed for
+learning or, equivalently, maximize the impact of each repetition. Each of
+them boils down to one thing: building strong connections every time we
+encounter an important concept.
+
+Perhaps the most effective way to build new connections is to pay attention to
+what you’re doing. When you are only partially engaged, you ruin your ability
+to form new connections. As soon as they start to appear, you flip to another
+task, and the connections are cleaned out to make room for something less
+important. Simplify! Do one thing at a time and physically remove
+distractions. Give your brain a chance. If you give yourself an easy way out,
+you’ll inevitably move from attention to distraction. I know, because I’ve
+been there. Don’t set yourself up for failure[^2].
+
+Also, give yourself plenty of time to learn new ideas. When we rush ourselves,
+it’s usually because we are focused on what’s coming next rather than on what
+is happening now. Paying complete attention to what we’re learning right now
+gives us a much better chance of remembering it later.
+
+Another key finding from recent research is that we shouldn’t immediately dive
+from a period of heavy learning into something else. Our brain automatically
+builds connections for us, but primarily during low-intensity tasks like
+enjoying a cup of coffee or walking across campus. So, take advantage of your
+brain’s built-in web-builder. Work through something new, and then take a
+short walk or grab a snack.
+
+Also, read actively. Draw analogies between concepts you’ve already
+internalized. Use mnemonic devices like our colorful friend ROY G. BIV and
+thought experiments like Schrödinger's Cat to bring difficult ideas to life.
+Tell explanatory stories relating several concepts under a unified theme. Take
+notes on what you read, but force yourself to write down your own ideas or
+restate the text for a fourth grader. Ask yourself, “What does this mean?”
+rather than just, “What does this say?” Implement [some of the great study
+techniques][2] that Cal Newport details over at StudyHacks.
+
+#### Coming Up
+
+Again, we learn by connecting the known to the unknown. The more effectively
+we build those connections, the less time we have to spend learning each
+concept. The more quickly we understand what’s already been done, the faster
+we can move on to the work that still needs doing. Science is not about
+reading papers or memorizing reams of minutiae. It’s about asking the best
+questions, finding the best answers, and sharing our discoveries with the
+world.
+
+
+[^1]:  Some forms of repetition are better than others. [Spaced repetition][3], for example, is far more effective than simply repeating the same thing four times in a row.
+[^2]: I’m not saying learning isn’t a great deal of fun. It is. I’m also not saying that it has to be fun in an austere, spartan sort of way. It doesn’t. What I am saying, though, is that if we try to do two things at once, we accomplish nothing. If we focus on one thing, though, we have a much better chance of succeeding. Leo Babauta’s [ebook on Focus][4] has much more to say about this topic, if you’re interested.
+
+[1]: /a/2010-11-18-trial1day15/wet-web.png (spider-web)
+[2]: http://calnewport.com/blog/category/tips-studying/ (Cal Newport - Study Hacks)
+[3]: http://en.wikipedia.org/wiki/Spaced_repetition (Wikipedia - Spaced Repetition)
+[4]: http://zenhabits.net/focus-book/ (Leo Babauta - Focus)

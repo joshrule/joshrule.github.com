@@ -1,0 +1,137 @@
+---
+author: joshrule
+date: '2010-11-26 18:37:38'
+layout: post
+slug: trial-1-day-22
+status: publish
+title: 'Trial 1: Day 22'
+wordpress_id: '58'
+categories:
+- trials
+---
+
+![from Reiner Schubert on flickr.com][1]
+
+Today is the twenty-second day of my thirty-day experiment with academic
+reading. I have been reading textbooks and academic papers for an hour each
+day, with a threefold hypothesis:
+
+*  regular reading will help nurture my interest in neuroscience into a passion
+*  regular reading will help identify the important questions in my field
+*  regular reading will reduce the time I spend on distractions when I should be working.
+
+Today, I’m just touching on a few brief observations from this past week. Most
+of the post will build on [what I said Monday][2] about consistency. I talked
+about the necessity of personal consistency for doing great science over an
+extended period of time. I also mentioned two key strategies for building
+consistency: gradual change and external metrics. Something I didn’t mention,
+though, is another very powerful strategy which shouldn’t be squeezed into a
+paragraph or two: using our environment to guide our decision-making.
+
+#### This Past Week
+
+*  I am still going strong and haven’t missed a single day, yet. I didn’t read on Thanksgiving, but I also didn’t count it as part of the trial.
+
+*  I’ve finished nearly 50% of the textbook and worked through about two-and-a-half papers closely tied to the actual research I’m doing.
+
+*  The amount of time I spent on distractions each day hovered between 30 and 40 minutes this week. That’s much less than my first few days at the lab.
+
+*  I’m continually impressed by the intricate design of our brains and the peripheral components of our nervous system. Understanding how these parts of our bodies work has profound implications for just about everything we do as humans, because they form the lens through which we see the world. Most avenues of business, education, technology, entertainment, and philosophy stand to be drastically changed as we learn more about the brain. I’m increasingly excited about being in this field.
+
+*  Even though I had a great night’s sleep, I was barely able to keep my eyes open through my reading Tuesday morning. As a result, my reading was a bit slower and I was a bit less engaged with the material. Again, I have to stress that you should **avoid reading when you are not alert and cannot focus easily**. Devoting energy to your reading is crucial, and you can’t do that when you’re half-asleep.
+
+#### Use Your Environment
+
+We, like all other living things, respond to our environment. As I ride my
+bike to work each morning, I’m constantly reacting to the cars and people
+around me. Some days, I cruise straight to the office with minimal delay.
+Other days, I’m constantly on my brakes or weaving around distracted drivers.
+My riding style reflects the world I’m riding through. Similarly, our choices
+reflect the environment we experience. That is, the structure of our
+environment affects the way we operate in it. We can take advantage of that
+fact by actively structuring our environment to help us become more
+consistent, rather than simply reacting to whatever comes our way.
+
+Consider two ways I could study neuroscience. In one, the books on my shelf
+remind me why I’m interested in the field and the tools I need are nearby. In
+the other, my office is piled with books on the vascular biology of cuttlefish
+and I am forced to drive across state lines to access my tools. Mastery isn’t
+impossible or guaranteed in either scenario, but it sure is easier in one than
+in the other. I’m the same person in both cases, but my environment is
+radically different.
+
+So, here’s my big thought from the trial this week: **consistency depends
+heavily on the environments we create for our work**. If we create good
+environments, regular efforts accrue to produce lasting and meaningful
+results. If we create bad environments, sporadic efforts burn like meteors
+crashing to earth, and have no impact.
+
+#### What It Looks Like
+
+Environmental cues can be used in a variety of ways. One that has been
+particularly useful for me is to build routines around physical objects or
+states. For example, I use thirst to kick off my morning routine of reading
+and writing. My commute leaves me looking for water when I get to the office.
+So, I fill up my water bottle, which reminds me to pull out my breakfast,
+which reminds me to sit down at my desk. When I sit down, I see my stack of
+books and am reminded to read. After reading, I put my book away, leaving my
+computer screen right in front of me. When I login, the first screen I see is
+the application I use for writing, reminding me to spend some time writing.
+
+Each of those actions occurs with very little thought, because physical parts
+of my environment guide me from task to task. When you’ve set up physical
+triggers to guide your routines this way, consistency becomes much easier.
+When I’m forced out of my routine (on weekends or during vacations and
+holidays), I miss those triggers, and it becomes much more difficult to carve
+out time to read and write. I have to force myself to be consistent, rather
+than simply showing up and letting these physical cues guide me. That first
+glass of water sends the rest of my day in the right direction.
+
+We can also work to remove environmental cues that negatively impact the
+amount of time we can consistently devote to our experiments. For example, the
+Internet has been a major distraction of mine over the years. So, I often keep
+my browser on a totally different workspace from the tools I use to read
+papers, program, or write. Even though the browser is still easily accessible,
+I’ve removed it from my environment, making it much easier for me to focus on
+more important tasks. By doing so, I am much more consistent in the amount of
+work I do each day. Otherwise, I might blow some days entirely to
+distractions, and spend others working from sunrise to sunset, as dictated by
+my ability to cope with distractions. By removing the distractions, I no
+longer have to deal with that variability.
+
+The Internet isn’t the only culprit, though. If you are forced to work in a
+distractingly noisy area, pop in some earplugs. If the applications on your
+computer are constantly dinging you with irrelevant information about new
+emails coming in or what’s been said on Facebook or Twitter, turn off the
+reminders. It’s crucial that you physically cut away the distractions that
+keep you from devoting most of your time and attention to doing great science.
+
+#### Why It Works
+
+One reason environmental cues are such an effective strategy for improving our
+consistency is that they are outside of us. They take the thoughts inside our
+heads and give them a physical form. Their impact does not depend on our
+remembering them, but on our physically running into them. As scientists, we
+often have to focus all our attention on one particular problem to make any
+progress. When we are that focused, though, lots of little things get pushed
+out of our heads.
+
+A good environment allows us to focus completely on the problem at hand
+without forgetting the other things we need to accomplish. So, when we read,
+we can be fully engaged in our reading, without worrying that we’ll forget our
+lab meeting over lunch or that we need to spend a few hours fixing bugs in our
+simulations this afternoon. A good environment captures this information and
+keeps it out of the way until the exact moment that we need it. The right cues
+at the right times can make us incredibly reliable.
+
+#### Just Getting Started
+
+I have plenty more to say about the power of environment, habit, and
+consistency, and will share more in the upcoming weeks and months. Right now,
+we need to understand that consistent effectiveness is a major factor in our
+long-term impact as scientists. The more consistently we produce strong
+answers to important questions, the greater our ability to build a better
+world.
+
+[1]: /a/2010-11-26-trial-1-day-22/power-of-water.png (power-of-water)
+[2]: http://joshrule.com/blog/on-consistency (WOTS - On Consistency)
