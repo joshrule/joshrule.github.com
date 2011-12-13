@@ -1,0 +1,120 @@
+/*
+Description: Theme for joshrule.com 
+Author: Josh Rule, 2011
+Should be applied everywhere
+*/
+
+.screen-reader-text {
+     position: absolute;
+     left: -1000em;
+}
+
+a {
+	color: #919191;
+	text-decoration:none;
+}
+
+a:visited {
+	color: #919191;
+}
+
+a:hover {
+	color: #000;
+}
+
+a img {
+	border: 0px solid #000;
+        margin-top: -25px;
+}
+
+body {
+	background: #fff;
+	color: #000;
+	font-family: Verdana, sans-serif;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+cite {
+	font-size: .75em;
+	font-style: normal;
+	color: #BFBFBF;
+}
+
+h1 {
+	font-family: Verdana, sans-serif;
+	font-size: 1.1em;
+	color: #000000;
+	font-weight: normal;
+	margin-top: 0;
+}
+
+h2 {
+	font-family: Verdana, sans-serif;
+	font-size: 1.1em;
+	color: #919191;
+	font-weight: normal;
+	margin-top: 1.2em;
+  margin-bottom: 0.8em;
+}
+
+h3 {
+	font-family: Verdana, sans-serif;
+	font-size: 0.9em;
+	font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+hr {
+	color: #000000;
+	border-top-width: 1px;
+}
+
+p {
+	font-size: 0.9em;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: square;
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  padding-left: 1.1em;
+} 
+
+li {
+	margin: 0;
+  font-size: 0.8em;
+}
+
+#box {
+	width: 740px;	
+	height: auto;
+  	margin-top: 100px;
+  	margin-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+#joshrule {
+  text-align: center;
+}
+
+#name {
+  font-size: 2.8em;
+}
+
+#links {
+  font-size: 0.8em;
+  text-align:right;
+}
+
+.section {
+	padding-left: 1.1em;
+}

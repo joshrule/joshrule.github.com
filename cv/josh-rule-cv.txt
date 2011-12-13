@@ -1,0 +1,74 @@
+Joshua Rule
+
+- http://joshrule.com
+- joshrule@joshrule.com
+- maxlab.neuro.georgetown.edu
+- @joshrule
+
+
+Education
+=========
+
+University of Illinois Urbana-Champaign
+---------------------------------------
+- Bachelor of Science in Engineering with Highest Honors, Computer Science, December 2009
+- Bachelor of Liberal Arts and Sciences, Summa cum Laude, Philosophy, December 2009
+- GPA: 3.96/4.00
+- Technical GPA: 3.98/4.00
+
+
+Experience
+==========
+
+Georgetown University: Neuroscience Department
+----------------------------------------------
+Lab Manager under Professor Maximilian Riesenhuber, October 2010 - Present
+- Manage lab's purchasing and financial reporting
+- Build computational models of human visual object recognition
+- Train and scan subjects for for fMRI studies in auditory and orthographic learning 
+
+U.S. Department of State, American Embassy Kingston
+---------------------------------------------------
+Information Technology Assistant, Inter-Post Communication, January 2010 - August 2010
+- Managed post telephony infrastructure for over 300 employees
+- Maintained and destroyed classified computing equipment
+- Facilitated the receiving and sending of classified materials
+
+University of Illinois: Computer Science Department
+---------------------------------------------------
+Senior Thesis under Professor Gerald DeJong, May 2009 - December 2009
+- Built linear separator for classification on small (< 100 examples) training sets
+- Authored paper summarizing development and experimental results of linear separator
+
+University of Illinois: Cognitive Computation Group (CCG)
+---------------------------------------------------------
+Undergraduate Research Assistant under Professor Dan Roth, May 2009 - December 2009
+- Analyzed performance of natural language tools for improved performance
+- Collaborated on framework for sentence manipulation and simplification
+
+University of Illinois: Computer Science Department
+---------------------------------------------------
+Undergraduate Teaching Assistant for CS225 (Intro to Data Structures),  January 2008 - May 2009
+- Tutored students in data structure concepts via C++ programming assignments
+- Counseled on course structure and content at weekly meetings
+- Created questions for and proctored midterms and final exam
+
+
+Technical Skills
+================
+
+- Proficient in C, Latex, MATLAB, Python, HTML, & CSS
+- Exposure to C++, Java, MIPS assembly, Lisp (PLT-Scheme and arc), & OCAML
+- Comfortable with Mac OS X, Windows, and *nix platforms
+- Basic proficiency in French
+
+
+Titles And Honors
+=================
+
+- University Honors (UIUC), top 3% of graduating class, 2010
+- Jeffrey P. Blahut Memorial Scholarship, C.S. Department, 2009
+- Charles G. Koch Summer Fellow with the Institute for Humane Studies, 2008
+- University of Illinois Chancellor's Scholar, 125 per incoming class, 2006-2009
+- University of Illinois James Scholar, 2006-2009
+- BSA Eagle Scout, 2004
