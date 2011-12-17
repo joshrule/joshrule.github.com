@@ -63,7 +63,9 @@ dd {
 }
 
 img {
-    margin-bottom: 5px; 
+    margin: 0; 
+    border: 0;
+    padding: 0;
 }
 
 h1 {
@@ -129,6 +131,11 @@ p {
     line-height: 1.45em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+}
+
+td {
+    padding-left: .25em;
+    padding-right: .25em;
 }
 
 #footer {
