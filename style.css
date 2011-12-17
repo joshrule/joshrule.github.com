@@ -4,7 +4,7 @@
 }
 
 a {
-    color: #919191;
+    color: #646464;
     text-decoration:none;
 }
 
@@ -15,15 +15,15 @@ a img {
 }
 
 a:visited {
-    color: #919191;
+    color: #646464;
 }
 
 a:hover {
-    color: #000;
+    color: #ccc;
 }
 
 blockquote {
-    border-left: 1px solid #919191;
+    border-left: 1px solid #646464;
     margin-left: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -48,7 +48,7 @@ cite {
 }
 
 code {
-    font-family: monospace;
+    font-family: Monaco, "Courier New", monospace;
 }
 
 dt {
@@ -83,13 +83,13 @@ h2 {
     letter-spacing: 0.0em;
     margin: 15px 0 2px 0;
     padding-bottom: 2px;
-    color: #919191;
+    color: #646464;
 }
 
 h3 {
     font-family: Verdana, sans-serif;
     font-size: 1.3em;
-    color: #919191;
+    color: #646464;
     font-weight: normal;
     margin-top: 0;
 }
@@ -97,7 +97,7 @@ h3 {
 h4 {
     font-family: Verdana, sans-serif;
     font-size: 1.0em;
-    color: #919191;
+    color: #646464;
     font-weight: lighter;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
@@ -106,14 +106,14 @@ h4 {
 h5 {
     font-family: Verdana, sans-serif;
     font-size: 0.85em;
-    color: #919191;
+    color: #646464;
     font-weight: lighter;
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
 
 hr {
-    color: #919191;
+    color: #646464;
     border-top-width: 1px;
 }
 
@@ -131,15 +131,6 @@ p {
     margin-bottom: 0.5em;
 }
 
-#author {
-    margin-bottom: 2em;    
-    margin-top: 0em;
-    font-family: Verdana, sans-serif;
-    font-weight: normal;
-    letter-spacing: 0.1em;
-    font-size: 1em;
-}
-
 #footer {
     background: transparent;
     color: #CCCCCC;
@@ -150,6 +141,10 @@ p {
 
 #footer a {
     color: #CCCCCC;
+}
+
+#footer a:hover {
+    color: #000;
 }
 
 #header {
@@ -165,6 +160,10 @@ p {
 
 #post {
     width: 460px;
+}
+
+#posts span {
+    font-family: Monaco, "Courier New", monospace;
 }
 
 #posts ul {

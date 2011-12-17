@@ -1,7 +1,7 @@
 ---
 author: joshrule
 date: '2010-09-14 22:01:43'
-layout: default
+layout: page
 slug: about
 status: publish
 title: about

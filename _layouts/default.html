@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Josh Rule: {{ page.title }}</title>
+    <title>Josh Rule{% if page.title != 'home' %}: {{ page.title }}{% endif %}</title>
     <meta name="author" content="Josh Rule" />
     <link rel="stylesheet" type="text/css" href="/style.css" />
     <link rel="shortcut icon" href="/a/favicon.ico" />
@@ -11,17 +11,12 @@
 </head>
 
 <body>
-    <div id="site">
+    <div id="site"> 
         <div id="header">
             <a href="/">Josh Rule</a> :: <a href="/about">about</a>
         </div>
-  
-        <div id="content">{{ content }}</div>
-  
-        <div id="footer">
-            <hr/>
-            <cite> &copy; 2011 <a href="/">Josh Rule</a> </cite>
-        </div>
+
+        {{ content }}
     </div>
 </body>
 
