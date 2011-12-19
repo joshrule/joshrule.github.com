@@ -8,8 +8,6 @@ title: about
 wordpress_id: '2'
 ---
 
-#### Josh
-
 <table>
 <tr>
 <td><img src="/a/josh.jpg"></td>

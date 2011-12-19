@@ -4,8 +4,9 @@
 }
 
 a {
-    color: #646464;
+    color: #000;
     text-decoration:none;
+    border-bottom: 1px dotted #000;
 }
 
 a img {
@@ -15,11 +16,11 @@ a img {
 }
 
 a:visited {
-    color: #646464;
+    color: #000;
 }
 
 a:hover {
-    color: #ccc;
+    color: #646464;
 }
 
 blockquote {
@@ -140,18 +141,19 @@ td {
 
 #footer {
     background: transparent;
-    color: #CCCCCC;
+    color: #cccccc;
     margin: 1em 0 1em 0;
     padding: 0px;
     text-align: center;
 }
 
 #footer a {
-    color: #CCCCCC;
+    color: #cccccc;
+    border-bottom: 1px dotted #cccccc;
 }
 
 #footer a:hover {
-    color: #000;
+    color: #646464;
 }
 
 #fourZeroFour {
@@ -167,6 +169,16 @@ td {
     margin-top: 1em;
     margin-bottom: 1em;
     padding: 0px;
+}
+
+#header a {
+    color: #646464;
+    border: none;
+}
+
+#header a:hover {
+    color: #000;
+    border: none;
 }
 
 #post {
