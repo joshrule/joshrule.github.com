@@ -1,8 +1,8 @@
 Joshua Rule
 
 - http://joshrule.com
-- joshrule@joshrule.com
-- maxlab.neuro.georgetown.edu
+- http://maxlab.neuro.georgetown.edu
+- joshrule [at] joshrule [dot] com
 - @joshrule
 
 
@@ -22,8 +22,8 @@ Experience
 
 Georgetown University: Neuroscience Department
 ----------------------------------------------
-Lab Manager under Professor Maximilian Riesenhuber, October 2010 - Present
-- Manage lab's purchasing and financial reporting
+Research Assistant & Lab Manager under Professor Maximilian Riesenhuber, October 2010 - Present
+- Manage lab's website, purchasing, and financial reporting
 - Build computational models of human visual object recognition
 - Train and scan subjects for for fMRI studies in auditory and orthographic learning 
 
@@ -54,20 +54,11 @@ Undergraduate Teaching Assistant for CS225 (Intro to Data Structures),  January 
 - Created questions for and proctored midterms and final exam
 
 
-Technical Skills
-================
-
-- Proficient in C, Latex, MATLAB, Python, HTML, & CSS
-- Exposure to C++, Java, MIPS assembly, Lisp (PLT-Scheme and arc), & OCAML
-- Comfortable with Mac OS X, Windows, and *nix platforms
-- Basic proficiency in French
-
-
 Titles And Honors
 =================
 
 - University Honors (UIUC), top 3% of graduating class, 2010
-- Jeffrey P. Blahut Memorial Scholarship, C.S. Department, 2009
+- Jeffrey P. Blahut Memorial Scholarship, C.S. Department, UIUC, 2009
 - Charles G. Koch Summer Fellow with the Institute for Humane Studies, 2008
 - University of Illinois Chancellor's Scholar, 125 per incoming class, 2006-2009
 - University of Illinois James Scholar, 2006-2009
