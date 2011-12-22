@@ -16,11 +16,13 @@ a img {
 }
 
 a:visited {
-    color: #000;
+    color: #880000;
+    border-bottom: 1px dotted #880000;
 }
 
 a:hover {
     color: #646464;
+    border-bottom: 1px dotted #646464;
 }
 
 blockquote {
@@ -121,7 +123,7 @@ hr {
 }
 
 li {
-    line-height: 1.45em;
+    line-height: 1.80em;
     font-size: 0.8em;
 }
 
@@ -149,7 +151,7 @@ td {
 
 #footer a {
     color: #cccccc;
-    border-bottom: 1px dotted #cccccc;
+    border-bottom: 0px dotted #cccccc;
 }
 
 #footer a:hover {
@@ -162,6 +164,7 @@ td {
 
 #header {
     font-family: Verdana, sans-serif;
+    color: #646464;
     font-weight: normal;
     letter-spacing: 0.0em;
     margin-left: 0px;
