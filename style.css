@@ -4,207 +4,122 @@
 }
 
 a {
-    color: #000;
-    text-decoration:none;
-    border-bottom: 1px dotted #000;
-}
-
-a img {
-    border: 0px solid #000;
-    margin: 0;
-    padding: 0;
+    text-decoration: none;
+    color: #0000bb;
 }
 
 a:visited {
-    color: #880000;
-    border-bottom: 1px dotted #880000;
-}
-
-a:hover {
-    color: #646464;
-    border-bottom: 1px dotted #646464;
-}
-
-blockquote {
-    border-left: 1px solid #646464;
-    margin-left: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 0;
-    padding-left: 5px;
+    color: #bb00bb;
 }
 
 body {
     background: #fff;
     color: #000;
-    font-family: Verdana, sans-serif;
-    font-size: 100%;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-}
-
-cite {
-    font-size: .75em;
-    font-style: normal;
-    color: #BFBFBF;
-}
-
-code {
-    font-family: Monaco, "Courier New", monospace;
-}
-
-dt {
-    margin-top: 1em;
-    font-size: .8em;
-    font-weight: bold;
-}
-
-dd {
-    font-size: .8em;
-    line-height: 1.45em;
+    font: normal 100% Verdana, sans-serif;
 }
 
 img {
     margin: 0; 
-    border: 0;
+    border-width: 0;
     padding: 0;
-}
-
-h1 {
-    font-family: Verdana, sans-serif;
-    font-weight:normal;
-    font-size:1.6em;
-    letter-spacing: 0.11em;
-    line-height: 1.6em;
-    padding: 0px;
-    margin: 0px;
-}
-
-h2 {
-    font-family: Verdana, sans-serif;
-    font-weight: normal;
-    font-size: 1.3em;
-    letter-spacing: 0.0em;
-    margin: 15px 0 2px 0;
-    padding-bottom: 2px;
-    color: #646464;
-}
-
-h3 {
-    font-family: Verdana, sans-serif;
-    font-size: 1.3em;
-    color: #646464;
-    font-weight: normal;
-    margin-top: 0;
-}
-
-h4 {
-    font-family: Verdana, sans-serif;
-    font-size: 1.0em;
-    color: #646464;
-    font-weight: lighter;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-}
-
-h5 {
-    font-family: Verdana, sans-serif;
-    font-size: 0.85em;
-    color: #646464;
-    font-weight: lighter;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-}
-
-hr {
-    color: #646464;
-    border-top-width: 1px;
-}
-
-li {
-    line-height: 1.80em;
-    font-size: 0.8em;
+    max-width: 100%;
+    display: block;
 }
 
 p {
-    font-family: Verdana, sans-serif;
-    font-size: 0.8em;
-    letter-spacing: 0px;
+    font-size: 1em;
     line-height: 1.45em;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin: 0 0 1em 0;
 }
 
-td {
-    padding-left: .25em;
-    padding-right: .25em;
+#content {
+    padding: 1.25em 0;
+    overflow: hidden;
 }
 
 #footer {
-    background: transparent;
+    clear: both;
     color: #cccccc;
-    margin: 1em 0 1em 0;
-    padding: 0px;
     text-align: center;
+    font-size: .75em;
+    font-style: normal;
 }
 
 #footer a {
     color: #cccccc;
-    border-bottom: 0px dotted #cccccc;
 }
 
 #footer a:hover {
-    color: #646464;
+    color: #0000bb;
 }
 
 #fourZeroFour {
     text-align: center;
 }
 
-#header {
-    font-family: Verdana, sans-serif;
-    color: #646464;
-    font-weight: normal;
-    letter-spacing: 0.0em;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 1em;
-    margin-bottom: 1em;
-    padding: 0px;
-}
-
-#header a {
-    color: #646464;
-    border: none;
-}
-
-#header a:hover {
-    color: #000;
-    border: none;
-}
-
-#post {
-    width: 460px;
-}
-
-#posts span {
-    font-family: Monaco, "Courier New", monospace;
-}
-
-#posts ul {
+#nav {
+    max-width: 30em;
+    margin: 0 auto;
+    padding: 0.5em 0 0 0;
     list-style-type: none;
-    padding: 0;
-    margin-top: 0;
-    margin-bottom: 0;
+    text-align: center;
 }
 
-#site {
-    width: 750px;    
-    margin-bottom: 0;
-    margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
+#nav a {
+    color: #000;
+}
+
+#nav a:hover {
+    text-decoration: underline;
+}
+
+#nav li {
+    margin: 0;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    display: inline;
+}
+
+#page {
+    max-width: 60.00em;    
+    margin: 2.5em auto;
+    padding: 0 0.625em;
+}
+
+#picture {
+    margin: 0 auto;
+    padding-bottom: 1.25em;
+    max-width: 13.5em;
+
+}
+
+.text {
+   max-width: 45em; 
+   margin: 0 auto;
+}
+
+#title {
     padding: 0;
-    text-align: left;
+    margin: 0 auto;
+    max-width: 30em;
+    display: block;
+}
+
+@media screen and (max-width: 40em) {
+    #nav li {
+        font-size: 1.25em;
+    }
+}
+
+@media screen and (min-width: 30em) {
+    #picture {
+        float: left;
+        margin-right: 1.25em;
+    }
+}
+
+@media screen and (max-width: 30em) {
+    #picture {
+        float: none;
+    }
 }
