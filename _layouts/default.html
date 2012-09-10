@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width"/>
+        <meta name="author" content="Josh Rule" />
+        <title>Josh Rule{% if page.title != 'home' %}: {{ page.title }}{% endif %}</title>
+        <link rel="stylesheet" type="text/css" href="/style.css" />
+        <link rel="shortcut icon" href="/a/favicon.ico" />
+    </head>
 
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Josh Rule{% if page.title != 'home' %}: {{ page.title }}{% endif %}</title>
-    <meta name="author" content="Josh Rule" />
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="shortcut icon" href="/a/favicon.ico" />
-    <!-- <script type="text/javascript" src="/mathjax/MathJax.js"></script> -->
-</head>
-
-<body>
-    <div id="site"> 
-        <div id="header">
-            <h1><a href="/">Josh Rule</a> :: <a href="/about">about</a><h1>
-
+    <body>
+        <div id="page"> 
+            <a id="title" href="/"><img src="/a/name.png" alt="Josh Rule"/></a>
+            <ul id="nav">
+                <li><a href="/research">research</a></li>
+                <li><a href="/cv">cv</a></li>
+                <li><a href="http://citeulike.org/user/joshrule">citeulike</a></li>
+                <li><a href="http://github.com/joshrule">github</a></li>
+                <li><a href="http://twitter.com/joshrule">twitter</a></li>
+            </ul>
+            <div id="content">
+                {{ content }}
+            </div>
+            <p id="footer">&copy; 2012, <a href="/">JR</a></p>
         </div>
-
-        {{ content }}
-    </div>
-</body>
-
+    </body>
 </html>
