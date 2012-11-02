@@ -18,6 +18,10 @@ body {
     font: normal 100% Verdana, sans-serif;
 }
 
+dt {
+    font-weight: bold;
+}
+
 img {
     margin: 0; 
     border-width: 0;
@@ -78,6 +82,11 @@ p {
     font-size: 1.5em;
     padding: 0 0.25em;
     display: inline;
+}
+
+.note {
+    font-size: 0.8em;
+    font-style: italic;
 }
 
 #page {
