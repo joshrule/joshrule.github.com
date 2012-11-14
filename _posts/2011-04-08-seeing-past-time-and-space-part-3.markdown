@@ -1,5 +1,6 @@
 ---
 author: joshrule
+published: false
 date: '2011-04-08 07:42:42'
 layout: post
 slug: seeing-past-time-and-space-part-3

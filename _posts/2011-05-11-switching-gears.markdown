@@ -1,5 +1,6 @@
 ---
 author: joshrule
+published: false
 date: '2011-05-11 22:57:57'
 layout: post
 slug: switching-gears
