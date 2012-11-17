@@ -58,6 +58,8 @@ Undergraduate Teaching Assistant, Data Structures (CS225), January 2008 - May 20
 Publications
 ============
 
+Glezer, L., Kim, J., Rule, J., Jiang, X., Riesenhuber, M. (In Preparation). Adding words to the orthographic lexicon: how learning novel words changes neural tuning in the VWFA.
+
 Sammons, M., Vydiswaran, V. G. V., Vieira, T., Johri, N., Chang, M.-W., Goldwasser, D., Srikumar, V., Kundu, G., Tu, Y., Small, K., Rule, J., Quang, D., and Roth, D. (2009). Relation alignment for textual entailment recognition. In Proceedings of the Second Text Analysis Conference.
 
 
@@ -73,6 +75,4 @@ Titles And Honors
 
 - University Honors (UIUC), top 3% of graduating class, 2010
 - Jeffrey P. Blahut Memorial Scholarship, C.S. Department, UIUC, 2009
-- Charles G. Koch Summer Fellow, the Institute for Humane Studies, 2008
 - University of Illinois Chancellor's Scholar, 125 per incoming class, 2006-2009
-- BSA Eagle Scout, 2004
