@@ -1,18 +1,17 @@
-safe:        false
-auto:        true
-server:      false
-server_port: 4000
+port:        4000
 baseurl:     /
+permalink:   /blog/:title
 
 source:      .
 destination: ./_site
 plugins:     ./_plugins
+layouts:     ./_layouts
 
+safe:        false
 future:      true
 lsi:         false
 pygments:    false
 markdown:    maruku
-permalink:   /blog/:title
 
 maruku:
   use_tex:    false
