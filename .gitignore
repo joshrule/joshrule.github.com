@@ -1,1 +1,7 @@
+# jekyll
 _site
+.bundle/
+.jekyll-cache/
+
+# emacs
+**/.auctex_auto
