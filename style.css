@@ -8,6 +8,25 @@
     line-height: 1.5;
 }
 
+h2 {
+    font-size: 20px;
+}
+
+h2.bibliography {
+    font-size: 18px;
+    color: #888888;
+}
+
+.bibitem {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.bibindex {
+    font-weight: 500;
+    color: #888888;
+}
+
 .name {
     font-size: 24px;
 }
@@ -25,6 +44,10 @@ a {
     text-decoration: none;
     color: #43a2ca;
     font-weight: 400;
+}
+
+a.muted,a:hover.muted,a:visited.muted {
+    color: #888888;
 }
 
 a:hover {
@@ -46,6 +69,11 @@ body {
 
 .container {
     max-width: 1024px;
+}
+
+
+.more {
+    font-variant: small-caps;
 }
 
 dt {
@@ -73,9 +101,9 @@ p {
 #footer {
     clear: both;
     text-align: center;
-    font-size: .75em;
-    font-style: normal;
+    font-size: 16px;
 }
+
 
 #fourZeroFour {
     text-align: center;

@@ -8,6 +8,8 @@ permalink:   /blog/:title
 source:      .
 # Where should jekyll put the site?
 destination: ./_site
+# Use Jekyll Scholar to make bibs easier.
+plugins: ['jekyll/scholar']
 # Where jekyll looks for plugins.
 plugins_dir:     ./_plugins
 # Where jekyll looks for page layouts.
@@ -20,3 +22,15 @@ future:      false
 lsi:         false
 # Use kramdown (what a surprise.).
 markdown:    kramdown
+# Configure Jekyll Scholar:
+scholar:
+    # Sort by year
+    sort_by: index
+    order: descending
+    bibliography_template: bib
+    bibliography_item_attributes: {
+        class: bibitem
+    }
+    group_by: date
+    group_order: descending
+    repository: papers
