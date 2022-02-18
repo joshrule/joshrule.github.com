@@ -4,4 +4,4 @@ _site
 .jekyll-cache/
 
 # emacs
-**/.auctex_auto
+**/.auctex-auto
