@@ -33,4 +33,4 @@ scholar:
     }
     group_by: date
     group_order: descending
-    repository: papers
+    repository: files
