@@ -3,9 +3,9 @@ layout: default
 title: home
 ---
 
-    <div class="row mt-3">
-        <div class="col-md-3 align-self-center">
-            <a href="a/joshua_s_rule_headshot.jpg"><img style="max-height: 232px;" src="a/joshua_s_rule_headshot.jpg" class="headshot img-fluid mx-auto" alt="Josh Rule Headshot" title="taken 2021"></a>
+    <div class="row">
+        <div class="col-lg-3 align-self-center mb-3 mb-lg-0">
+            <a href="a/joshua_s_rule_feb_2022_headshot_4x5.jpg"><img style="max-height: 232px;" src="a/joshua_s_rule_feb_2022_headshot_1x1.jpg" class="headshot img-fluid mx-auto" alt="Josh Rule Headshot" title="taken February 2022"></a>
             <h1 class='name text-center mb-0'>Josh Rule</h1>
             <p class="text-center mb-0 links">
               <a href='files/joshua_s_rule_cv.pdf'>CV</a> &middot; <a href='https://github.com/joshrule'>GitHub</a> &middot; <a href="https://scholar.google.com/citations?hl=en&user=Hfe_zNAAAAAJ">Google Scholar</a>
@@ -15,7 +15,7 @@ title: home
                 <a href="javascript:location='mailto:\u0072\u0075\u006c\u0065\u0040\u0062\u0065\u0072\u006b\u0065\u006c\u0065\u0079\u002e\u0065\u0064\u0075';void 0"><script type="text/javascript">document.write('\u0072\u0075\u006c\u0065\u0040\u0062\u0065\u0072\u006b\u0065\u006c\u0065\u0079\u002e\u0065\u0064\u0075')</script></a>
             </p>
         </div>
-        <div class="col-md-9 align-self-center">
+        <div class="col-lg-9 align-self-center">
             <p class="about">I am a postdoctoral scholar with <a href="http://colala.berkeley.edu/people/piantadosi">Steven Piantadosi</a> and <a href="http://alisongopnik.com">Alison Gopnik</a> at <a href="https://berkeley.edu">UC Berkeley</a>. I completed my PhD with <a href="https://cocosci.mit.edu/josh">Josh Tenenbaum</a> at <a href="https://mit.edu">MIT</a> (<a href="files/rule2020child.pdf">thesis</a> &middot; <a href="files/rule2020child.precis.pdf">precis</a>).
             </p>
 
@@ -26,11 +26,10 @@ title: home
             </p>
         </div>
     </div>
-    <div class="row mt-5">
-    </div>
-    <div class="row mt-3">
+    <div class="row">
         <!--<h2>Publications <a class="more muted" href="https://scholar.google.com/citations?hl=en&user=Hfe_zNAAAAAJ">google scholar</a></h2>-->
         <h2>Publications</h2>
-        {% bibliography %}
+        <h2 class="bibliography">Under Review</h2>
+        {% bibliography --query @*[status] %}
+        {% bibliography  --query @*[year]  --group_by year --group_order descending %}
     </div>
-    <div class>

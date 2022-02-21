@@ -1,5 +1,8 @@
 ---
 ---
-<span class="bibindex">[{{entry.index}}]</span>&nbsp;&nbsp;&nbsp;&nbsp;{{reference}} {% if links.pdf %}<a href="{{links.pdf}}">PDF</a>{% endif %}
-
-<!-- <pre>{{ entry.bibtex }}</pre> -->
+{% assign cleanKey = {{entry.key | remove: ":" | remove: "/" | remove: "_" | remove: '-' }}}} %}
+<span class="bibindex">[{{entry.index}}]</span>&nbsp;&nbsp;&nbsp;&nbsp;{{reference}}{% if links.pdf %} <a class="more" href="{{links.pdf}}">Paper</a>{% endif %}{% if links['precis.pdf'] %} <a class="more" href="{{links.precis.pdf}}">Precis</a>{% endif %}
+    {% assign bibKey = {{cleanKey | append: "Bib"}} %}
+    <a class="collapsed more" data-bs-toggle="collapse" href="#{{ bibKey }}" role="button" aria-expanded="false" aria-controls="{{ bibKey }}">Bib</a>
+        <!-- Display bibtex on button click -->
+        <div class="collapse my-3" id="{{ bibKey }}"><pre>{{ entry.bibtex }}</pre></div>

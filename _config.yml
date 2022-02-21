@@ -25,12 +25,19 @@ markdown:    kramdown
 # Configure Jekyll Scholar:
 scholar:
     # Sort by year
+    style: ./apa-jsr.csl
     sort_by: index
     order: descending
     bibliography_template: bib
     bibliography_item_attributes: {
         class: bibitem
     }
-    group_by: date
-    group_order: descending
+    bibtex_skip_fields:
+        - abstract
+        - keywords
+        - index
+        - author+an
+        - url
     repository: files
+    bibtex_filters:
+        - latex
