@@ -3,7 +3,7 @@ port:        4000
 # Where should jekyll put the site?
 baseurl:     /
 # How should jekyll create permalinks?
-permalink:   /blog/:title
+permalink:   /post/:title
 # Where should find the site source?
 source:      .
 # Where should jekyll put the site?
